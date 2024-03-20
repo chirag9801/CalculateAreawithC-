@@ -20,7 +20,8 @@ namespace CalculateArea
 
         static int Area(int Base, int height)
         {
-            return Base * height;
+            int area = (Base*height)/2;
+            return area;
 
         }
 
