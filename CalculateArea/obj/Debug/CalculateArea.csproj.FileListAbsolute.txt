@@ -1,0 +1,7 @@
+E:\C#\CalculateArea\CalculateArea\bin\Debug\CalculateArea.exe.config
+E:\C#\CalculateArea\CalculateArea\bin\Debug\CalculateArea.exe
+E:\C#\CalculateArea\CalculateArea\bin\Debug\CalculateArea.pdb
+E:\C#\CalculateArea\CalculateArea\obj\Debug\CalculateArea.csproj.AssemblyReference.cache
+E:\C#\CalculateArea\CalculateArea\obj\Debug\CalculateArea.csproj.CoreCompileInputs.cache
+E:\C#\CalculateArea\CalculateArea\obj\Debug\CalculateArea.exe
+E:\C#\CalculateArea\CalculateArea\obj\Debug\CalculateArea.pdb
